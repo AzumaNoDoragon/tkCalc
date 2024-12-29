@@ -16,4 +16,4 @@ Este projeto utiliza **Tkinter** para criar a interface gráfica e **Pillow** pa
 2. **Início da Aplicação**
    - Após a instalação, inicie a aplicação executando o script `run_script.vbs`.
 
-![Imagem da GUI da calculadora](calc.png)
+![Imagem da GUI da calculadora]](https://github.com/user-attachments/assets/76fa6c7d-88c5-4858-bdd2-8660f77652d4)
