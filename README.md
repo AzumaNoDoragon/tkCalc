@@ -1,4 +1,5 @@
-# tkCalc
-Desenvolvimento de uma calculadora com interface gráfica semelhante à calculadora padrão do Windows. Utiliza Tkinter para a interface e Pillow para criação e manipulação de elementos gráficos. Permite inserção de números e operadores, cálculo de resultados, e manipulação de sinais e entradas.
+# Meu Projeto / My Project
 
-Tenha python instalado, rode o "install_libraries.cmd" para instalar as bibliotecas, o mesmo irá perguntar se deseja iniciar a aplicação, posteriomente pode ser iniciao pelo run_script.vbs
+**Escolha seu idioma / Choose your language:**
+
+[![🇧🇷 Português](https://img.shields.io/badge/Português-green)](README/README.pt.md)   [![🇺🇸 English](https://img.shields.io/badge/English-blue)](README/README.en.md)
